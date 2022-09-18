@@ -2,13 +2,13 @@
 <h3 align="center">Passionate Frontend Developer and Technical Writer.</h3>
 
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **React.js.**
 
 - 👨‍💻 All of my projects are available at [Github.com/cheeh1](Github.com/cheeh1)
 
 - 📝 I regularly write articles on [https://cheehdevworkshop.hashnode.dev/](https://cheehdevworkshop.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS,SASS, Tailwind, JavaScript.**
+- 💬 Ask me about **HTML, CSS,SASS, Tailwind, JavaScript, Gsap, React.**
 
 - 📫 How to reach me **edwindivine5@gmail.com**
 
