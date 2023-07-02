@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheeh1&label=Profile%20views&color=0e75b6&style=flat" alt="cheeh1" /> </p>
 
-- 🌱 I’m currently learning **React and Redux.**
+- 🌱 I’m currently learning **Redux and Firebase.**
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
