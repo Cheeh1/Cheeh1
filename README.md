@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divine Edwin</h1>
-<h3 align="center">A Passionate Frontend Developer and Technical Writer.</h3>
+<h3 align="center">A Passionate Frontend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheeh1&label=Profile%20views&color=0e75b6&style=flat" alt="cheeh1" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [https://cheehdevworkshop.hashnode.dev/](https://cheehdevworkshop.hashnode.dev/)
 
-- 💬 Ask me about **React, Javascript, Typescript**
+- 💬 Ask me about **React, Next.js, Javascript, TypeScript, React Native, Node, Express, Mongodb**
 
 - 📫 How to reach me **edwindivine5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q39yQt6Q6br_8tU0zCCxRE6Mm8TkgTXk/view?usp=sharing](https://drive.google.com/file/d/1Q39yQt6Q6br_8tU0zCCxRE6Mm8TkgTXk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-tilmDkd7JOCdLMvomiWrT54uRxZOvD2/view?usp=sharing](https://drive.google.com/file/d/1-tilmDkd7JOCdLMvomiWrT54uRxZOvD2/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Social and Jovial**
 
