@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheeh1&label=Profile%20views&color=0e75b6&style=flat" alt="cheeh1" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
-
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 👨‍💻 All of my projects are available at [divineedwin.netlify.app](divineedwin.netlify.app)
