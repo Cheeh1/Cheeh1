@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [divineedwin.netlify.app](divineedwin.dev)
+- 👨‍💻 All of my projects are available at [divineedwin.dev](divineedwin.dev)
 
 - 📝 I regularly write articles on [https://cheehdevworkshop.hashnode.dev/](https://cheehdevworkshop.hashnode.dev/)
 
