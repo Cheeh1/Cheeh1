@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **edwindivine5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-tilmDkd7JOCdLMvomiWrT54uRxZOvD2/view?usp=sharing](https://drive.google.com/file/d/1-tilmDkd7JOCdLMvomiWrT54uRxZOvD2/view?usp=sharing)
-
 - ⚡ Fun fact **I'm Social and Jovial**
 
 <h3 align="left">Connect with me:</h3>
